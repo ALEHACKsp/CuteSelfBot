@@ -1,6 +1,8 @@
 # CuteSelfBot
 A discord self bot with cute commands.
 
+![image](https://cdn.clippy.gg/clippy/0dfc323b-a63f-496e-93e4-72f6db1dcd11/f319fff.png)
+
 ***
 
 # Installation 
